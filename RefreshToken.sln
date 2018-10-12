@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefreshToken", "RefreshToken\RefreshToken.csproj", "{C6D6F8D3-AC07-4B89-8278-A322A3FC780E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefreshTokenWeb", "RefreshTokenWeb\RefreshTokenWeb.csproj", "{040D92A5-3EAF-4530-AA52-FD0F9A72F563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6D6F8D3-AC07-4B89-8278-A322A3FC780E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D6F8D3-AC07-4B89-8278-A322A3FC780E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D6F8D3-AC07-4B89-8278-A322A3FC780E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D6F8D3-AC07-4B89-8278-A322A3FC780E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040D92A5-3EAF-4530-AA52-FD0F9A72F563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040D92A5-3EAF-4530-AA52-FD0F9A72F563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040D92A5-3EAF-4530-AA52-FD0F9A72F563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040D92A5-3EAF-4530-AA52-FD0F9A72F563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {630DB63C-A3E5-4A87-81B1-8689F46F49D1}
+	EndGlobalSection
+EndGlobal
